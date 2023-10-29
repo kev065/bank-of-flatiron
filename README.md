@@ -16,4 +16,4 @@ Users can do the following with this app:
 7. You can conribute to this project by forking it, making the necessary changes, pushing to github and creating a pull request. 
 
 ### Licence
-This project is licenced under {the MIT Licence](https://github.com/kev065/bank-of-flatiron/blob/main/LICENSE/).
+This project is licenced under the [MIT Licence](https://github.com/kev065/bank-of-flatiron/blob/main/LICENSE/).
