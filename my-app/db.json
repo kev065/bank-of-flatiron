@@ -99,17 +99,17 @@
       "id": 14
     },
     {
-      "date": "",
-      "description": "",
-      "category": "",
-      "amount": "2000",
+      "date": "2023-10-28",
+      "description": "Clubbing",
+      "category": "Entertainment",
+      "amount": "-110",
       "id": 15
     },
     {
-      "date": "",
-      "description": "rr",
-      "category": "ff",
-      "amount": "234",
+      "date": "2023-10-30",
+      "description": "Maralal visit",
+      "category": "Travel",
+      "amount": "-230",
       "id": 16
     }
   ]
