@@ -1,4 +1,4 @@
-**The Royal Bank of Flatiron App** -
+#The Royal Bank of Flatiron App -
 This app built using React is a simple tool for managing a user's transactions.
 
 Users can do the following with this app:
