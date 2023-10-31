@@ -111,6 +111,20 @@
       "category": "Travel",
       "amount": "-230",
       "id": 16
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 17
+    },
+    {
+      "date": "",
+      "description": "Choma kwa M'limaya",
+      "category": "Food",
+      "amount": "6",
+      "id": 18
     }
   ]
 }
