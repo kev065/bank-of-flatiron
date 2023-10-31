@@ -13,7 +13,11 @@ Users can do the following with this app:
 4. Install react dependencies on your project directory by running the following command: `npm install && npm start` 
 5. Your application will now run in your default browser at **port 3001** http://localhost:3001/
 6. You can now test out the app by clicking on the search bar or adding transactions.
-7. You can conribute to this project by forking it, making the necessary changes, pushing to github and creating a pull request. 
+7. You can conribute to this project by forking it, making the necessary changes, pushing to github and creating a pull request.
+
+### Technologies used 
+- React
+- Tailwind CSS 
 
 ### Licence
 This project is licenced under the [MIT Licence](https://github.com/kev065/bank-of-flatiron/blob/main/LICENSE/).
